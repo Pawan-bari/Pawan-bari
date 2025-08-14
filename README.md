@@ -45,4 +45,4 @@ Passionate about developing **secure, scalable, and user-friendly** solutions fo
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/pawan-bari-4b3357321/)  
-📧 pawan_your_email_here
+📧 pawanbari127@gmail.com
