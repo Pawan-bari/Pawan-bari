@@ -1,6 +1,6 @@
 # Hi, I'm Pawan 👋
 
-🎓 Third-year Electronics & Telecommunication Engineering Student | 💻 Java & Flutter Developer | ☁️ Cloud Enthusiast  
+🎓  Electronics & Telecommunication Engineer | 💻 Java & Flutter Developer |   
 
 I specialize in building **Java desktop applications** with **JavaFX + Firebase** and **cross-platform mobile apps** using **Flutter & Dart**.  
 Passionate about developing **secure, scalable, and user-friendly** solutions for real-world problems.
